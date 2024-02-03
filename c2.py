@@ -1,5 +1,5 @@
 ##############################
-# ZxCDDoS Made by zxcr9999   #
+# M2H-DDoS Made by @m2hgamerz   #
 # COPY = NIGGER              #
 ##############################
 
@@ -84,7 +84,7 @@ def ascii_vro():
     clear()
 
 def si():
-    print('         \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mZxC \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to ZxC PN! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: zxcr9999 \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.1')
+    print('         \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mZxC \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to m2h PN! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: m2hgamerz \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.1')
     print("")
 
 def tools():
@@ -754,16 +754,16 @@ CLEAR   ► CLEAR TERMINAL
 
 def login():
     clear()
-    user = "admin"
-    passwd = "admin"
+    user = "m2h"
+    passwd = "m2h"
     username = input("⚡ Username: ")
     password = getpass.getpass(prompt='⚡ Password: ')
     if username != user or password != passwd:
         print("")
-        print("⚡ Haizzz, you're so cute...")
+        print("⚡ shitt...!, you're so cute...")
         sys.exit(1)
     elif username == user and password == passwd:
-        print("⚡ Welcome to ZxC C2!")
+        print("⚡ Welcome to M2H!")
         time.sleep(0.3)
         ascii_vro()
         main()
