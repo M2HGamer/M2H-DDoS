@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.4 - Free DDoS Panel 🚀
+# 🚀 M2HGamerz: Release v2.0 - Free DDoS Panel 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -10,9 +10,9 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
-<p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+> Username: m2h<br>
+> Password: m2h<br>
+<p align="center">  <a href="https://t.me/M2H_SRC"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
 
