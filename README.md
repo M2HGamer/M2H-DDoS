@@ -74,8 +74,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
-cd ZxCDDoS/
+git clone https://github.com/M2HGamer/M2H-DDoS/
+cd M2H-DDoS/
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
